@@ -34,10 +34,10 @@ We believe in combining clean code, modern tools, and great user experience to s
 
 Want to work with us, collaborate, or just say hi?
 
-- 📩 **Email:** [hello@dhtglobal.com](mailto:hello@dhtglobal.com)  
-- 💼 **LinkedIn:** [DHTek-Global](https://www.linkedin.com/company/dhtek-global)  
-- 🐦 **Twitter:** [@dhtek_global](https://twitter.com/dhtek_global) *(Responses might take a while)*  
-- 📱 **WhatsApp:** [Chat on WhatsApp](https://wa.me/your-number)
+- 📩 **Email:** [hello@dhtglobal.com](mailto:dev@dhtglobal.com)  
+- 💼 **LinkedIn:** [DHTek-Global](https://www.linkedin.com/#)  
+- 🐦 **Twitter:** [@dhtek_global](https://x.com/#) *(Responses might take a while)*  
+- 📱 **WhatsApp:** [Chat on WhatsApp](https://wa.me/08169030947)
 
 ---
 
